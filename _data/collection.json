@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "DLF 2023 AV Annotate Workshop" ] },
+    "summary": { "en": [ "A test for the DLF Forum 2023 workshop." ] },
+    "items": [
+    ]
+}
